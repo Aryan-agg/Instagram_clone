@@ -165,7 +165,7 @@ export default function ImageUpload({ username }) {
       <div className="upload_first">
         <Avatar
           className="post__avatar"
-          alt="subhampreet"
+          alt="Aryan"
           src="./images/avatar1.jpg"
           className = {classes.large}
         />

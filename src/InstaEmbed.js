@@ -61,14 +61,14 @@ function InstaEmbed() {
         />
 
         <div className="footer_content" >
-            <h5>Subhampreet Mohanty</h5>
-            <a href="https://www.instagram.com/_the.odist_/"><Button variant="contained" color="secondary" className="footer_follow" >Follow</Button></a>
+            <h5>ARYAN AGARWAL</h5>
+            <a href="https://www.instagram.com/aryan_agg23/"><Button variant="contained" color="secondary" className="footer_follow" >Follow</Button></a>
         </div>
 
         
       </div>
       <div className="copyright">
-            <CopyrightIcon fontSize="small" className="copyright_icon" />2020 INSTAGRAM-CLONE BY SUBHAMPREET 
+            <CopyrightIcon fontSize="small" className="copyright_icon" />2023 INSTAGRAM-CLONE BY ARYAN 
       </div>
     </div>
   );
